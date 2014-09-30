@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'devise'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
+gem 'paperclip', '~> 3.0'
 
 group :development, :test do
      gem 'sqlite3'
